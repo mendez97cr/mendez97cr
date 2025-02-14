@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @mendez97crhttps://github.com/mendez97cr/mendez97cr
-- 👀 I’m interested in ... creating ways to predict the future using data.
-- 🌱 I’m currently learning ... fiance
-- 💞️ I’m looking to collaborate on ... anything 
-- 📫 How to reach me ... Instagram or here 
+👋 Hey, I’m Mendez (@mendez97cr)
+🔮 I build AI systems that predict the future using data.
 
-<!---
-mendez97cr/mendez97cr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Founder of NOVIONIX Labs – Pushing AI innovation across industries.
+🏀 Creator of HoopXcel – AI-driven sports betting & analytics.
+🌍 Building r/AIFullStackLab – A hub for AI & full-stack devs.
+
+🚀 What I Do:
+AI & Machine Learning – Predictive models, automation, and analytics.
+Sports Betting AI – Custom-built NBA/NFL prediction systems.
+Automation & Web Scraping – Data pipelines, bots, and workflow automation.
+Full-Stack Development – Scalable web apps with AI integration.
+📚 Currently Learning:
+Finance & quantitative modeling to optimize AI-driven decision-making.
+💬 Let’s Connect:
+📩 DM me on Instagram or GitHub to collaborate.
