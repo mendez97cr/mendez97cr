@@ -7,6 +7,7 @@
 🚀 Projects:
 
 • Aether Sports – AI-driven sports intelligence. Vegas runs the house; we run the code.
+
 • Lucen OS – A behavioral co-pilot redefining self-reflection and daily evolution.
 
 🌐 Community:
