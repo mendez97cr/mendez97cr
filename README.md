@@ -1,28 +1,31 @@
 👋 Hey, I’m Mendez (@mendez97cr)
 
-🔮 I build AI systems that predict the future using data.
+🔮 I bend time for a living, building AI systems that don't just predict the future – they architect it.
 
+💡 Founder & CEO of NOVIONIX Labs – Pioneering next-gen AI from a 10x10 command center.
 
-💡 Founder of NOVIONIX Labs – Pushing AI innovation across industries.
+🚀 Powering:
+  * Aether Sports – Where Vegas runs the house, and we run the code. AI-driven sports intelligence by NOVIONIX Labs.
+  * Lucen OS – Evolve with your OS. The behavioral co-pilot redefining self-reflection, built by NOVIONIX Labs.
 
-🏀 Creator of HoopXcel – AI-driven sports betting & analytics.
+🌍 Building r/AIFullStackLab – A hub for bleeding-edge AI and full-stack development.
 
-🌍 Building r/AIFullStackLab – A hub for AI & full-stack devs.
+🏀 Creator of [Previous Project Name if you still want to mention it, otherwise remove] – [Brief, updated description if relevant].
 
-🚀 What I Do:
+🛠️ Running ops from the shed. Logging the empire build, one line of code at a time. Time is motion. Let’s bend it.
 
-AI & Machine Learning – Predictive models, automation, and analytics.
+🔭 What I Do:
 
-Sports Betting AI – Custom-built NBA/NFL prediction systems.
+* **Temporal AI & Machine Learning:** Architecting predictive models and intelligent systems grounded in the dynamics of time.
+* **Autonomous Systems Design:** Developing AI agents for dynamic decision-making across industries (e.g., sports, health).
+* **Full-Stack Development & Integration:** Building scalable applications that seamlessly integrate advanced AI capabilities.
+* **Data Engineering & Automation:** Constructing robust pipelines for real-time data acquisition and processing.
 
-Automation & Web Scraping – Data pipelines, bots, and workflow automation.
+📚 Currently Exploring:
 
-Full-Stack Development – Scalable web apps with AI integration.
-
-📚 Currently Learning:
-
-Finance & quantitative modeling to optimize AI-driven decision-making.
+* Advanced quantitative finance and modeling to further optimize AI-driven strategic decision-making.
+* The intersection of consciousness studies and emergent properties in complex AI systems.
 
 💬 Let’s Connect:
 
-📩 DM me on Instagram or GitHub to collaborate.
+📩 Slide into my DMs on Instagram or hit me up on GitHub to collaborate on groundbreaking projects.
