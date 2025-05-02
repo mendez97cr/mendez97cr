@@ -1,31 +1,30 @@
 👋 Hey, I’m Mendez (@mendez97cr)
+🔮 I bend time for a living—building AI systems that don’t just predict the future, they architect it.
 
-🔮 I bend time for a living, building AI systems that don't just predict the future – they architect it.
+💡 Founder & CEO, NOVIONIX Labs – Pioneering next-gen AI from a 10x10 command center.
 
-💡 Founder & CEO of NOVIONIX Labs – Pioneering next-gen AI from a 10x10 command center.
+🚀 Projects:
+• Aether Sports – AI-driven sports intelligence. Vegas runs the house; we run the code.
+• Lucen OS – A behavioral co-pilot redefining self-reflection and daily evolution.
 
-🚀 Powering:
-  * Aether Sports – Where Vegas runs the house, and we run the code. AI-driven sports intelligence by NOVIONIX Labs.
-  * Lucen OS – Evolve with your OS. The behavioral co-pilot redefining self-reflection, built by NOVIONIX Labs.
+🌐 Community:
+• r/AIFullStackLab – A hub for bleeding-edge AI and full-stack dev.
 
-🌍 Building r/AIFullStackLab – A hub for bleeding-edge AI and full-stack development.
+🛠️ Running ops from the shed. Logging the empire build—one line of code at a time.
+🕰️ Time is motion. Let’s bend it.
 
-🏀 Creator of [Previous Project Name if you still want to mention it, otherwise remove] – [Brief, updated description if relevant].
+🧠 What I Do:
+Temporal AI & Machine Learning – Building predictive systems grounded in the dynamics of time.
 
-🛠️ Running ops from the shed. Logging the empire build, one line of code at a time. Time is motion. Let’s bend it.
+Autonomous Systems – Designing AI agents for real-world decision-making (sports, health, finance).
 
-🔭 What I Do:
+Full-Stack AI Development – Integrating ML into scalable, real-time applications.
 
-* **Temporal AI & Machine Learning:** Architecting predictive models and intelligent systems grounded in the dynamics of time.
-* **Autonomous Systems Design:** Developing AI agents for dynamic decision-making across industries (e.g., sports, health).
-* **Full-Stack Development & Integration:** Building scalable applications that seamlessly integrate advanced AI capabilities.
-* **Data Engineering & Automation:** Constructing robust pipelines for real-time data acquisition and processing.
+Data Engineering – Automating pipelines for intelligent, adaptive systems.
 
-📚 Currently Exploring:
+🔍 Currently Exploring:
+Quantitative modeling + AI for strategic optimization.
 
-* Advanced quantitative finance and modeling to further optimize AI-driven strategic decision-making.
-* The intersection of consciousness studies and emergent properties in complex AI systems.
+Consciousness & emergent behavior in complex AI systems.
 
-💬 Let’s Connect:
-
-📩 Slide into my DMs on Instagram or hit me up on GitHub to collaborate on groundbreaking projects.
+📬 DM me on Instagram or connect via GitHub – let's build what's next.
